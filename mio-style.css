@@ -34,7 +34,7 @@
 }
 
 .ex-5-square:hover{
-  scale: 200%;
+  scale: 150%;
   transition: 1s;
 }
 
@@ -121,3 +121,9 @@
     right: 20%;
   }
 }
+
+
+.ex-13-button:hover .ex-13-top-white{
+  animation: movimentoalto2 1s linear;
+}
+
