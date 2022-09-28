@@ -63,3 +63,16 @@
   border-radius: 30px;
   filter: grayscale(.6) sepia(.5);
 }
+
+.ex-10-icon{
+  animation: rotazione 1s infinite linear;
+}
+
+@keyframes rotazione{
+  from{
+    transform: rotate(0deg);
+  }
+  to{
+    transform: rotate(360deg);
+  }
+}
