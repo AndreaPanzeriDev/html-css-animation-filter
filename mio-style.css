@@ -56,3 +56,10 @@
   transition: 1s;
   filter: grayscale(.6) sepia(.5);
 }
+
+.ex-9-img:hover{
+  transition: 1s;
+  scale: 150%;
+  border-radius: 30px;
+  filter: grayscale(.6) sepia(.5);
+}
