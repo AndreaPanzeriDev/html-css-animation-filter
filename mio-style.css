@@ -45,3 +45,8 @@
 .ex-6-img:hover{
   filter: grayscale(100%);
 }
+
+.ex-7-img:hover{
+  filter: grayscale(.6) sepia(.5);
+  transition: 1s;
+}
